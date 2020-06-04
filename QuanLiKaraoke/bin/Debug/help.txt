@@ -1,0 +1,9 @@
+account user
+		username: Nvien
+		pass       : 1
+
+=======================================
+
+acount admin
+		username : admin
+		usernaem : 1

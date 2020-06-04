@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\QuanLiKaraoke\QuanLiKaraoke\bin\Debug\QuanLiKaraoke.exe.config
+C:\Users\user\Desktop\QuanLiKaraoke\QuanLiKaraoke\bin\Debug\QuanLiKaraoke.exe
+C:\Users\user\Desktop\QuanLiKaraoke\QuanLiKaraoke\bin\Debug\QuanLiKaraoke.pdb
+C:\Users\user\Desktop\QuanLiKaraoke\QuanLiKaraoke\obj\Debug\QuanLiKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\QuanLiKaraoke\QuanLiKaraoke\obj\Debug\QuanLiKaraoke.fLogin.resources
+C:\Users\user\Desktop\QuanLiKaraoke\QuanLiKaraoke\obj\Debug\QuanLiKaraoke.Properties.Resources.resources
+C:\Users\user\Desktop\QuanLiKaraoke\QuanLiKaraoke\obj\Debug\QuanLiKaraoke.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\QuanLiKaraoke\QuanLiKaraoke\obj\Debug\QuanLiKaraoke.exe
+C:\Users\user\Desktop\QuanLiKaraoke\QuanLiKaraoke\obj\Debug\QuanLiKaraoke.pdb
+C:\Users\user\Desktop\QuanLiKaraoke\QuanLiKaraoke\obj\Debug\QuanLiKaraoke.fTableManager.resources
+C:\Users\user\Desktop\QuanLiKaraoke\QuanLiKaraoke\obj\Debug\QuanLiKaraoke.Admin.resources
