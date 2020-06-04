@@ -1,0 +1,1 @@
+Windows application xay dung de quan ly quan karaoke
